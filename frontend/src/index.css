@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+
+/* :root {
+    background-image: linear-gradient(to right, #C49738 1px, transparent 1px),
+      linear-gradient(to bottom, #C49738 1px, transparent 1px);
+    background-size: 24px 24px;
+  }
+  
+  @keyframes float {
+    0% {
+      transform: translateY(0px);
+    }
+    50% {
+      transform: translateY(-10px);
+    }
+    100% {
+      transform: translateY(0px);
+    }
+  } */
